@@ -1,7 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Rohfi**.
-Saya adalah mahasiswa Teknik Informatika Semester 6(enam) di Universitas Yarsi
+Perkenalkan nama saya **Muhammad Rohfi**.  Saya adalah mahasiswa Teknik Informatika Semester 6(enam) di Universitas Yarsi
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-rohfi-1ab71b222/) ku ya.
 
