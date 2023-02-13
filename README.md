@@ -1,8 +1,8 @@
-# Halo semua! 
+# Hi everyone! 
 
-Perkenalkan nama saya **Muhammad Rohfi**.
+Allow me to introduce myself, my name is **Muhammad Rohfi**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-rohfi-1ab71b222/) dan akun [Instagram](https://www.instagram.com/muhammad_rohfi/) ku ya.
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhammad-rohfi-1ab71b222/) and my account [Instagram](https://www.instagram.com/muhammad_rohfi/).
 
 ## Github Statistic
 <p align="left">
